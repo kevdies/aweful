@@ -9,6 +9,7 @@ class CreateRegistrations < ActiveRecord::Migration[6.1]
       t.integer :number_of_jumps
       t.integer :tunnel_time
       t.string :previous_camps
+      t.string :ratings
       t.string :membership_number
       t.belongs_to :user
       t.belongs_to :event

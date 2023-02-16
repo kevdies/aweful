@@ -44,6 +44,7 @@ ActiveRecord::Schema.define(version: 2023_02_16_175052) do
     t.integer "number_of_jumps"
     t.integer "tunnel_time"
     t.string "previous_camps"
+    t.string "ratings"
     t.string "membership_number"
     t.bigint "user_id"
     t.bigint "event_id"
