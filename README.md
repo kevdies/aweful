@@ -4,7 +4,7 @@ This is a web application built with Ruby on Rails, React, and Reactstrap. It al
 
 The app includes a list of events with details such as pricing and dates. Users can register for events, view their registered events, and access instructor bios. The front-end of the app has form validations and is optimized for both desktop and mobile devices. The app also features user authentication and authorization with user sessions and cookies, using the Bcrypt gem for password encryption.
 
-- Usage -
+- Usage 
 
 To use the app, follow these steps:
 
@@ -12,7 +12,6 @@ Create an account or log in with an existing account.
 Browse the list of events and select the ones you want to register for.
 View your registered events and instructor bios on your 'my events' section.
 If you are admin@admin.com you have the ability to add, edit, or remove instructors and events.
-
 - Features -
 
 The app includes the following features:
@@ -24,7 +23,7 @@ Instructor bios
 Form validation on the front-end
 Optimized for desktop and mobile devices
 
-- Technologies Used -
+- Technologies Used 
 
 The app was built with the following technologies:
 
@@ -34,7 +33,7 @@ Reactstrap
 PostgreSQL
 Bcrypt gem for password encryption
 
-- Future Features -
+- Future Features 
 
 Ability to pay for events online
 Integration with calendar applications
