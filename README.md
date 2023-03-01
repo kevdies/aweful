@@ -1,8 +1,6 @@
                                                       Skydive Event Registration App
                                                       
-                                                      
-                                                     Demo - https://youtu.be/7JUL1CPlHqg
-
+                                                    Demo - https://youtu.be/7JUL1CPlHqg
 This is a web application built with Ruby on Rails, React, and Reactstrap. It allows skydivers to register for skydiving events, view the events they've signed up for, and browse information about instructors.
 
 The app includes a list of events with details such as pricing and dates. Users can register for events, view their registered events, and access instructor bios. The front-end of the app has form validations and is optimized for both desktop and mobile devices. The app also features user authentication and authorization with user sessions and cookies, using the Bcrypt gem for password encryption.
