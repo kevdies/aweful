@@ -12,7 +12,8 @@ Create an account or log in with an existing account.
 Browse the list of events and select the ones you want to register for.
 View your registered events and instructor bios on your 'my events' section.
 If you are admin@admin.com you have the ability to add, edit, or remove instructors and events.
-- Features -
+
+- Features 
 
 The app includes the following features:
 
